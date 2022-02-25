@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+#### About me
+My name is Yang and I'm a science & technology driven developer 
+
+Click these bages if you want to know more about me!
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![linkedin](https://img.shields.io/badge/LinkedIn-#0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=blue)
+  
 <!--
 **geek-yang/geek-yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
