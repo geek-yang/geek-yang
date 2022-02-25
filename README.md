@@ -12,5 +12,5 @@ My name is Yang and I'm a research software engineer.
 #### :computer: What I do
 (Yang is busy with coding and has no time to answer your question :wrench: :sweat_smile: :sweat_drops: :star: :hammer: :anger: :sparkles: :boom: :bulb: :hourglass:)
 
-#### :computer: My contribution
+#### :chart_with_upwards_trend: My contribution
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geek-yang&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
