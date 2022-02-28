@@ -6,7 +6,7 @@ My name is Yang and I'm a research software engineer.
 :copyright: Click these bages if you want to know more about me! :registered: <br>
 <br>
 [![github](https://img.shields.io/badge/GitHub-000000?style=flat&logo=GitHub&logoColor=white)](https://github.com/geek-yang) 
-[![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/yang1991escience/) 
+[![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yang1991escience/) 
 [![escience](https://img.shields.io/badge/eScience-yellow?style=flat&logo=/e/&logoColor=white)](https://www.esciencecenter.nl/team/yang-liu/) 
 
 #### :computer: What I do
