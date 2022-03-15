@@ -14,4 +14,5 @@ My name is Yang and I'm a research software engineer.
 
 #### :chart_with_upwards_trend: My contribution
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geek-yang&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geek-yang&layout=compact?hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geek-yang&layout=compact?hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
