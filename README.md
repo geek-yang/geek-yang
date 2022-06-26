@@ -1,7 +1,7 @@
 ### WoW you find a coding nerd there :stuck_out_tongue_closed_eyes: 👋 :laughing:
 
 #### :stars: About me
-My name is Yang and I'm a research software engineer.
+My name is Yang and I'm a research software engineer | Data Scientist | Researcher | Meteorologist | Coding Nerd.
 
 :copyright: Click these bages if you want to know more about me! :registered: <br>
 <br>
