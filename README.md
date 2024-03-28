@@ -8,7 +8,6 @@ My name is Yang and I'm a Research Software Engineer :atom: | Data Scientist :el
 [![github](https://img.shields.io/badge/GitHub-000000?style=flat&logo=GitHub&logoColor=white)](https://github.com/geek-yang)
 [![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yang1991escience/)
 [![github](https://img.shields.io/badge/ORCID-ffffff?style=flat&logo=orcid&logoColor=green)](https://orcid.org/0000-0002-1966-8460)
-[![escience](https://img.shields.io/badge/eScience-yellow?style=flat&logo=/e/&logoColor=white)](https://www.esciencecenter.nl/team/yang-liu/)
 
 
 #### :computer: What I do
